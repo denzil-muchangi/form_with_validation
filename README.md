@@ -1,16 +1,27 @@
-# form_with_validation
+# Form with Validation
 
-A new Flutter project.
+This Flutter application demonstrates a comprehensive user registration form with various input fields and client-side validation.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+- **User Registration Form:** A single form to capture user details.
+- **Mandatory Fields:**
+  - Username
+  - First Name
+  - Last Name
+  - Email (with format validation)
+  - Password (with minimum length validation)
+  - Password Confirmation (must match password)
+  - Birthday (date picker)
+  - Gender (dropdown selection)
+- **Optional Field:**
+  - Phone Number
+- **Client-Side Validation:** Ensures data integrity before submission.
+- **Responsive UI:** Built with Flutter's widgets for a consistent experience across devices.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run `flutter pub get` to install dependencies.
+4. Run `flutter run` to launch the application.
