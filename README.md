@@ -19,6 +19,14 @@ This Flutter application demonstrates a comprehensive user registration form wit
 - **Client-Side Validation:** Ensures data integrity before submission.
 - **Responsive UI:** Built with Flutter's widgets for a consistent experience across devices.
 
+## Screenshot
+
+Here's a screenshot of the application:
+
+| Screenshot |
+| :---: |
+| <img src="screenshots/screenshot.png" alt="App Login Page" width="250"/> |
+
 ## How to Run:
 
 1. Clone this repository.
